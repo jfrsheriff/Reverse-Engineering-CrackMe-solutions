@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {checkRegister = id; endSheet = id; }; 
+            CLASS = AppManager; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {mainWindow = id; name = id; serial = id; successSheet = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

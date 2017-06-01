@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IBClasses</key>
+	<array>
+		<dict>
+			<key>ACTIONS</key>
+			<dict>
+				<key>cancelButton</key>
+				<string>id</string>
+				<key>continueWelcomeButton</key>
+				<string>id</string>
+				<key>emailResults</key>
+				<string>id</string>
+				<key>okErrorSheetButton</key>
+				<string>id</string>
+				<key>okIncorrectSerialButton</key>
+				<string>id</string>
+				<key>quitCorrectSerialButton</key>
+				<string>id</string>
+				<key>unregisterButton</key>
+				<string>id</string>
+				<key>verifyRegistration</key>
+				<string>id</string>
+			</dict>
+			<key>CLASS</key>
+			<string>Level2</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>OUTLETS</key>
+			<dict>
+				<key>emailField</key>
+				<string>id</string>
+				<key>errorSheet</key>
+				<string>id</string>
+				<key>incorrectSerialSheet</key>
+				<string>id</string>
+				<key>mainWindow</key>
+				<string>id</string>
+				<key>nameField</key>
+				<string>id</string>
+				<key>registeredSheet</key>
+				<string>id</string>
+				<key>serialField</key>
+				<string>id</string>
+				<key>welcomeSheet</key>
+				<string>id</string>
+			</dict>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>FirstResponder</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+	</array>
+	<key>IBVersion</key>
+	<string>1</string>
+</dict>
+</plist>
